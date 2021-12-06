@@ -1,0 +1,100 @@
+LS(1)                                                                                        User Commands                                                                                       LS(1)
+
+
+
+NAME
+       ls - list directory contents
+
+SYNOPSIS
+       ls [OPTION]... [FILE]...
+
+CAT(1)                                                                                       User Commands                                                                                      CAT(1)
+
+
+
+NAME
+       cat - concatenate files and print on the standard output
+
+SYNOPSIS
+       cat [OPTION]... [FILE]...
+
+PWD(1)                                                                                       User Commands                                                                                      PWD(1)
+
+
+
+NAME
+       pwd - print name of current/working directory
+
+SYNOPSIS
+       pwd [OPTION]...
+
+CP(1)                                                                                        User Commands                                                                                       CP(1)
+
+
+
+NAME
+       cp - copy files and directories
+
+SYNOPSIS
+       cp [OPTION]... [-T] SOURCE DEST
+       cp [OPTION]... SOURCE... DIRECTORY
+MAN(1)                                                                                    Manual pager utils                                                                                    MAN(1)
+
+
+
+NAME
+       man - an interface to the on-line reference manuals
+
+SYNOPSIS
+       man [-C file] [-d] [-D] [--warnings[=warnings]] [-R encoding] [-L locale] [-m system[,...]] [-M path] [-S list] [-e extension] [-i|-I] [--regex|--wildcard] [--names-only] [-a] [-u] [--no-sub‐
+       pages] [-P pager] [-r prompt] [-7] [-E encoding] [--no-hyphenation] [--no-justification] [-p string] [-t] [-T[device]] [-H[browser]] [-X[dpi]] [-Z] [[section] page ...] ...
+BASH_BUILTINS(1)                                                                        General Commands Manual                                                                       BASH_BUILTINS(1)
+
+
+
+NAME
+       bash,  :,  .,  [,  alias,  bg,  bind,  break, builtin, caller, cd, command, compgen, complete, compopt, continue, declare, dirs, disown, echo, enable, eval, exec, exit, export, false, fc, fg,
+       getopts, hash, help, history, jobs, kill, let, local, logout, mapfile, popd, printf, pushd, pwd, read, readonly, return, set, shift, shopt, source, suspend, test,  times,  trap,  true,  type,
+       typeset, ulimit, umask, unalias, unset, wait - bash built-in commands, see bash(1)
+
+BASH BUILTIN COMMANDS
+MV(1)                                                                                        User Commands                                                                                       MV(1)
+
+
+
+NAME
+       mv - move (rename) files
+
+SYNOPSIS
+       mv [OPTION]... [-T] SOURCE DEST
+       mv [OPTION]... SOURCE... DIRECTORY
+CHMOD(1)                                                                                     User Commands                                                                                    CHMOD(1)
+
+
+
+NAME
+       chmod - change file mode bits
+
+SYNOPSIS
+       chmod [OPTION]... MODE[,MODE]... FILE...
+       chmod [OPTION]... OCTAL-MODE FILE...
+RMDIR(1)                                                                                     User Commands                                                                                    RMDIR(1)
+
+
+
+NAME
+       rmdir - remove empty directories
+
+SYNOPSIS
+       rmdir [OPTION]... DIRECTORY...
+
+MKDIR(1)                                                                                     User Commands                                                                                    MKDIR(1)
+
+
+
+NAME
+       mkdir - make directories
+
+SYNOPSIS
+       mkdir [OPTION]... DIRECTORY...
+
